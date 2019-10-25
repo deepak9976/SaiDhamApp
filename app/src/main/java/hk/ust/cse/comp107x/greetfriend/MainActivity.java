@@ -18,6 +18,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     private static final String TAG = "MainActivity";
     private Button greetButton;
+    private Button timeButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
